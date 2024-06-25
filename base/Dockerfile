@@ -29,4 +29,3 @@ EXPOSE 3632
 EXPOSE 3633
 
 USER distccd
-
